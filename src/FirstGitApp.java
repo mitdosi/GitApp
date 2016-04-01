@@ -5,6 +5,9 @@ public class FirstGitApp {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello git");
+		
+		System.out.println("hi guys doing grt with git");
+		
 	}
 
 }
